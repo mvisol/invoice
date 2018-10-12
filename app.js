@@ -74,6 +74,6 @@ app.use((err, req, res, next) => {
   });
 });
 
-app.listen(1337, () => {
-  console.log('App listening on port 1337!');
+app.listen(8337, () => {
+  console.log('App listening on port 8337!');
 });
